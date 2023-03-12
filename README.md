@@ -10,7 +10,7 @@ You need to have Python 3.x installed on your system along with the following pa
   matplotlib
 
 You can install these packages using pip:
-  pip install python-twitter networkx matplotlib
+pip install python-twitter networkx matplotlib
 
 Usage:
 Replace the authentication keys for the Twitter API in the code (CONSUMER_KEY, CONSUMER_SECRET, OAUTH_TOKEN, and OAUTH_TOKEN_SECRET) with your own keys. You can obtain these keys by creating a Twitter developer account and creating a new app.
